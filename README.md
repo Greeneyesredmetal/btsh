@@ -14,3 +14,5 @@
 自己写一个shell，使用golang
 
 golang version: 1.19
+
+IDE: golang/go + vs code
